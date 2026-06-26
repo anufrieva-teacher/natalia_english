@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lexical-approach",
+    "title": "Почему слова лучше учить не по одному",
+    "level": "Article",
+    "category": "lexis",
+    "description": "Коротко о lexical chunks, collocations и естественной речи.",
+    "link": "/blog/post.html?id=lexical-approach",
+    "tag": "lexis",
+    "content": "<p>Отдельные слова быстро забываются. Фразы и словосочетания легче использовать в речи, потому что они уже готовы к употреблению.</p><p>Например: take part in, it depends on, by the way.</p>"
+  },
+  {
+    "id": "ege-speaking",
+    "title": "Как перестать бояться устной части ЕГЭ",
+    "level": "Article",
+    "category": "exams",
+    "description": "Структура ответа, речевые модели и практика вслух.",
+    "link": "/blog/post.html?id=ege-speaking",
+    "tag": "exams",
+    "content": "<p>Страх устной части уменьшается, когда ученик знает структуру ответа и имеет набор готовых фраз.</p>"
+  },
+  {
+    "id": "study-plan",
+    "title": "Как заниматься между уроками",
+    "level": "Article",
+    "category": "study",
+    "description": "Мини-привычки и регулярная практика вместо марафонов перед дедлайном.",
+    "link": "/blog/post.html?id=study-plan",
+    "tag": "study",
+    "content": "<p>15 минут регулярной практики часто эффективнее, чем два часа раз в неделю.</p>"
+  }
+]

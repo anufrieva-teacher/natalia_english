@@ -1,0 +1,29 @@
+[
+  {
+    "id": "r1",
+    "title": "ЕГЭ — история ученика",
+    "level": "ЕГЭ",
+    "category": "Exam",
+    "description": "Плейсхолдер отзыва: ученик стал увереннее в устной части и письменных ответах.",
+    "link": "#",
+    "tag": "EGE"
+  },
+  {
+    "id": "r2",
+    "title": "Adult English",
+    "level": "Adults",
+    "category": "Conversation",
+    "description": "Плейсхолдер отзыва: меньше страха говорить и больше живой практики.",
+    "link": "#",
+    "tag": "B1"
+  },
+  {
+    "id": "r3",
+    "title": "University English",
+    "level": "Students",
+    "category": "Academic",
+    "description": "Плейсхолдер отзыва: системная работа с лексикой и экзаменационными форматами.",
+    "link": "#",
+    "tag": "B2"
+  }
+]

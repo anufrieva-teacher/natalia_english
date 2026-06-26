@@ -1,0 +1,1 @@
+const saved=localStorage.getItem('theme'); if(saved)document.documentElement.dataset.theme=saved; document.getElementById('themeToggle')?.addEventListener('click',()=>{let next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;localStorage.setItem('theme',next)});

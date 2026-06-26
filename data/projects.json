@@ -1,0 +1,20 @@
+[
+  {
+    "id": "all-in-one",
+    "title": "All in One",
+    "level": "Teachers",
+    "category": "Materials",
+    "description": "Проект готовых уроков и интерактивных досок для преподавателей английского.",
+    "link": "#",
+    "tag": "B1"
+  },
+  {
+    "id": "opera-club",
+    "title": "Opera Club",
+    "level": "B1-C1",
+    "category": "Culture",
+    "description": "Английский через культуру, искусство и оперу: разговорный клуб с эстетикой и смыслом.",
+    "link": "#",
+    "tag": "B2"
+  }
+]

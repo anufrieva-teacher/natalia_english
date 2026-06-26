@@ -1,0 +1,38 @@
+[
+  {
+    "id": "welcome-board",
+    "title": "Welcome on Board!",
+    "level": "A2-B1",
+    "category": "Travel",
+    "description": "Летний урок про ситуации на борту самолёта: место, багаж, напитки, проблемы во время полёта.",
+    "link": "/trainers/welcome-on-board/",
+    "tag": "A2"
+  },
+  {
+    "id": "perfect-summer",
+    "title": "My Perfect Summer",
+    "level": "A2+-B1",
+    "category": "Speaking",
+    "description": "Урок-путешествие про идеальное лето, отпуск, соцсети и личный выбор.",
+    "link": "#",
+    "tag": "B1"
+  },
+  {
+    "id": "ege-collocations",
+    "title": "EGE Collocations Bank",
+    "level": "B2-C1",
+    "category": "EGE",
+    "description": "Универсальные коллокации для комментария, проблемы и решения в эссе.",
+    "link": "#",
+    "tag": "EGE"
+  },
+  {
+    "id": "dentist",
+    "title": "Going to the Dentist Abroad",
+    "level": "A2+-B1",
+    "category": "Survival English",
+    "description": "Практический английский для визита к стоматологу за границей.",
+    "link": "#",
+    "tag": "B1"
+  }
+]

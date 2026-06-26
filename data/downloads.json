@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ogefaq",
+    "title": "OGE Speaking Checklist",
+    "level": "A2-B1",
+    "category": "Exam",
+    "description": "Памятка для устной части ОГЭ.",
+    "link": "#",
+    "tag": "A2"
+  },
+  {
+    "id": "chunks",
+    "title": "Useful Speaking Chunks",
+    "level": "B1-B2",
+    "category": "Vocabulary",
+    "description": "Фразы для аргументации и обсуждения.",
+    "link": "#",
+    "tag": "B1"
+  }
+]

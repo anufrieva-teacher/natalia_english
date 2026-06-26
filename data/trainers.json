@@ -1,0 +1,38 @@
+[
+  {
+    "id": "welcome",
+    "title": "Welcome on Board!",
+    "level": "A2-B1",
+    "category": "Travel",
+    "description": "Интерактивный тренажёр по фразам для полёта.",
+    "link": "/trainers/welcome-on-board/",
+    "tag": "A2"
+  },
+  {
+    "id": "pp",
+    "title": "Present Perfect Practice",
+    "level": "A2-B1",
+    "category": "Grammar",
+    "description": "Тренировка Present Perfect в коротких контекстах.",
+    "link": "/trainers/present-perfect/",
+    "tag": "A2"
+  },
+  {
+    "id": "travel",
+    "title": "Travel Vocabulary",
+    "level": "A2-B1",
+    "category": "Vocabulary",
+    "description": "Коллокации и фразы для путешествий.",
+    "link": "/trainers/travel-vocabulary/",
+    "tag": "B1"
+  },
+  {
+    "id": "phrasal",
+    "title": "Phrasal Verbs",
+    "level": "B1-B2",
+    "category": "Vocabulary",
+    "description": "Фразовые глаголы через контекст и проверку.",
+    "link": "/trainers/phrasal-verbs/",
+    "tag": "B2"
+  }
+]
